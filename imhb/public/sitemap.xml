@@ -9,7 +9,7 @@
   </url>
   
   <url>
-    <loc>http://arg.napier.ac.uk/events/imhb/pages/dates/</loc>
+    <loc>http://arg.napier.ac.uk/events/imhb/dates/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -21,31 +21,19 @@
   </url>
   
   <url>
-    <loc>http://arg.napier.ac.uk/events/imhb/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://arg.napier.ac.uk/events/imhb/pages/organisation/</loc>
+    <loc>http://arg.napier.ac.uk/events/imhb/organisation/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://arg.napier.ac.uk/events/imhb/pages/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://arg.napier.ac.uk/events/imhb/pages/programme/</loc>
+    <loc>http://arg.napier.ac.uk/events/imhb/programme/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://arg.napier.ac.uk/events/imhb/pages/submission/</loc>
+    <loc>http://arg.napier.ac.uk/events/imhb/submission/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -57,9 +45,15 @@
   </url>
   
   <url>
-    <loc>http://arg.napier.ac.uk/events/imhb/pages/topics/</loc>
+    <loc>http://arg.napier.ac.uk/events/imhb/topics/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://arg.napier.ac.uk/events/imhb/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
   </url>
   
 </urlset>

@@ -1,7 +1,7 @@
 baseURL = "http://arg.napier.ac.uk/events/imhb"
 languageCode = "en"
 defaultContentLanguage = "en"                    
-title = "Intelligent Machines & Human Behaviour"
+title = "Workshop on Intelligent Machines & Human Behaviour"
 preserveTaxonomyNames = true
 enableRobotsTXT = true
 enableEmoji = true
@@ -30,27 +30,27 @@ copyright = ""
   name = "Topics"
   weight = 10
   identifier = "topics"
-  url = "/pages/topics/"
+  url = "/topics/"
 [[menu.main]]
   name = "Submission"
   weight = 20
   identifier = "submission"
-  url = "/pages/submission/"
+  url = "/submission/"
 [[menu.main]]
   name = "Dates"
   weight = 30
   identifier = "dates"
-  url = "/pages/dates/"
+  url = "/dates/"
 [[menu.main]]
   name = "Organisation"
   weight = 40
   identifier = "organisation"
-  url = "/pages/organisation/"
+  url = "/organisation/"
 [[menu.main]]
   name = "Programme"
   weight = 50
   identifier = "programme"
-  url = "/pages/programme/"
+  url = "/programme/"
 
 [params]
   version = "4.x"     
@@ -59,7 +59,7 @@ copyright = ""
   since = "2018"    
 
   # site info (optional)     
-  logoTitle = "Intelligent Machines & Human Behaviour"        
+  logoTitle = "Workshop on Intelligent Machines & Human Behaviour"        
   keywords = ["Hugo", "theme","even"]
   description = "Intelligent Machines & Human Behaviour Workshop Website."
 
