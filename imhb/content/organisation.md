@@ -27,7 +27,7 @@ UCL Institute of Epidemiology and Health Care, Research Department of Behavioura
 <!--
 <dl>
 
-<dt><a href="#"></a></dt>
+<dt></dt>
 <dd></dd>
 
 </dl>
@@ -38,20 +38,26 @@ UCL Institute of Epidemiology and Health Care, Research Department of Behavioura
 <dt>Al Baker</dt>
 <dd>Institute for Transport Studies, University of Leeds</dd>
 
+<dt>Hannah Bowden</dt>
+<dd>UCL Institute of Epidemiology and Health Care, Research Department of Behavioural Science and Health, University College Londo</dd>
+
 <dt>Paula Forbes</dt>
 <dd>University of Abertay</dd>
 
 <dt>Antti Jyllha</dt>
 <dd>The Hague University of Applied Sciences</dd>
-</dd>
+
+<dt>Kate Pangbourne</dt>
+<dd>Institute for Transport Studies, University of Leeds</dd>
 
 <dt>Cedric Perret</dt>
 <dd>School of Computing, Edinburgh Napier University</dd>
-</dd>
 
 <dt>Simon Powers</dt>
 <dd>School of Computing, Edinburgh Napier University</dd>
-</dd>
+
+<dt>Simon Wells</dt>
+<dd>School of Computing, Edinburgh Napier University</dd>
 
 
 
