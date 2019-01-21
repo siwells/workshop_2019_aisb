@@ -4,6 +4,8 @@ subtitle:
 comments: false
 ---
 
+Paper & Position-paper dates extended: 28th January 2019 (see the [dates page](/events/imhb/dates) for more details).
+
 This workshop will run as part of the Society for the Study of Artificial Intelligence and Simulation of Behaviour ([AISB 2019](http://aisb2019.falmouthgamesacademy.com/)) annual convention.
 
 Artificially intelligent machines are becoming increasingly prevalent in modern society and are likely to play an important, even ubiquitous, role in future everyday decision making. This is a trend that is likely to accelerate as new techniques for automated-reasoning and machine- learning are applied to decision making within real-world domains. That these machines will have a great impact upon human society is beyond doubt. There is the potential for such machines to improve nearly every aspect of human life, particularly when artificial intelligence can overcome the well known shortcomings in human decision making such as those identified by behavioural economists. Insights from behavioural economics are behind the rise of ‘nudge’ initiatives, and are in themselves subject to a critique of their ethics. However there is also the potential for AI machines to act to the detriment of people. For every cancer successfully detected at an early stage, there could be a bank computer denying (or approving) a mortgage, or the consequences of an autonomous vehicle that makes a poor decision about whether to evade an obstacle or emergency brake. This is not to ascribe explicitly malicious intent, but merely to recognise that most current, and likely future, machine systems will be as imperfect as those who have created them.
