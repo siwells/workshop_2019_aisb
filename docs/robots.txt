@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://siwells.github.io/workshop_2019_aisb/sitemap.xml
